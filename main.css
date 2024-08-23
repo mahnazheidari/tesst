@@ -1,0 +1,6 @@
+#subject{width: 100%; text-align: center; background: #f41717; height: 40px; font-size:xx-large;}
+#beyt1{width: 100px; background-size: 100px; background-color: blueviolet; font-size: large;text-align: center; vertical-align: middle;}
+#beyt2{width: 100vw; background-color:rgb(48, 206, 48); font-size: large; text-align: center; height: 30px;}
+#beyt3{width: 100rem;background: 100rem;background-color: cadetblue;text-align: center;font-size: large;font-style: inherit;height: 30px;}
+#beyt4{width: fit-content;font-size: large; background-color: deeppink; text-align: center;}
+#image{direction: ltr;}
